@@ -10,17 +10,19 @@
 some nice enhancements to the text editor.
 &lt;p&gt;
 Markdown Features:
-
 - Content outline
 - Section folding
-- Export to HTML and HTML Preview
+- Export to HTML 
+- Markdown HTML Preview
+- MultiMarkdown metadata
+- GitHub code blocks
 &lt;p&gt;
 General Text Features:
 - Word wrapping
-- TODO task tags
 - Format paragraph command
+- TODO task tags
 
-The download includes all source code and project files.
+https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin
    </description>
 
    <copyright>
